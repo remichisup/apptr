@@ -1,0 +1,35 @@
+[
+  {
+    "data_1_zip_url_1": "https://archive.org/download/remi_bully_data/data_1.zip",
+    "data_1_zip_url_2": "https://archive.org/download/remi_bully_data/data_1.zip",
+    "data_1_zip_url_3": "https://archive.org/download/remi_bully_data/data_1.zip",
+    
+    "data_1_idx_url_1": "https://archive.org/download/remi_bully_data/data_1.zip.idx",
+    "data_1_idx_url_2": "https://archive.org/download/remi_bully_data/data_1.zip.idx",
+    "data_1_idx_url_3": "https://archive.org/download/remi_bully_data/data_1.zip.idx",
+
+    "data_2_zip_url_1": "https://archive.org/download/remi_bully_data/data_2.zip",
+    "data_2_zip_url_2": "https://archive.org/download/remi_bully_data/data_2.zip",
+    "data_2_zip_url_3": "https://archive.org/download/remi_bully_data/data_2.zip",
+
+    "data_2_idx_url_1": "https://archive.org/download/remi_bully_data/data_2.zip.idx",
+    "data_2_idx_url_2": "https://archive.org/download/remi_bully_data/data_2.zip.idx",
+    "data_2_idx_url_3": "https://archive.org/download/remi_bully_data/data_2.zip.idx",
+
+    "data_3_zip_url_1": "https://archive.org/download/remi_bully_data/data_3.zip",
+    "data_3_zip_url_2": "https://archive.org/download/remi_bully_data/data_3.zip",
+    "data_3_zip_url_3": "https://archive.org/download/remi_bully_data/data_3.zip",
+
+    "data_3_idx_url_1": "https://archive.org/download/remi_bully_data/data_3.zip.idx",
+    "data_3_idx_url_2": "https://archive.org/download/remi_bully_data/data_3.zip.idx",
+    "data_3_idx_url_3": "https://archive.org/download/remi_bully_data/data_3.zip.idx",
+
+    "data_4_zip_url_1": "https://archive.org/download/remi_bully_data/data_4.zip",
+    "data_4_zip_url_2": "https://archive.org/download/remi_bully_data/data_4.zip",
+    "data_4_zip_url_3": "https://archive.org/download/remi_bully_data/data_4.zip",
+
+    "data_4_idx_url_1": "https://archive.org/download/remi_bully_data/data_4.zip.idx",
+    "data_4_idx_url_2": "https://archive.org/download/remi_bully_data/data_4.zip.idx",
+    "data_4_idx_url_3": "https://archive.org/download/remi_bully_data/data_4.zip.idx"
+  }
+]

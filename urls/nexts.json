@@ -1,0 +1,22 @@
+[
+  {
+    "id": "com.telltalegames.fables100",
+    "name": "The Wolf Among Us",
+    "icon": "https://play-lh.googleusercontent.com/NfewrWLRFYmCsBTR3cZs4PcO18chz8H4H1dhZ0OsnKYl4ld2rtOZHIZ-FUTRpTfQylU=w480-h960-rw",
+    "translator": "Remi",
+    "translatedFile": "1",
+    "totalFile": "100",
+    "isExpanded": "false",
+    "extra": "Çeviri başladı.."
+  },
+  {
+    "id": "com.telltalegames.minecraft100",
+    "name": "Minecraft Story Mode",
+    "icon": "https://apkvision.org/wp-content/uploads/2017/09/10362-140x140.jpg",
+    "translator": "Remi",
+    "translatedFile": "0",
+    "totalFile": "100",
+    "isExpanded": "false",
+    "extra": "Çeviri henüz başlamadı.."
+  }
+]
