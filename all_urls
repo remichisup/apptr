@@ -8,8 +8,10 @@
     "ALL_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/apks/files_",
     "NEXT_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/nexts.json",
     "TEST_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/tests.json",
+    "STEAM_GAMES": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/steams.json",
 
     "GAME_OBBS": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/obbs/",
     "GAME_DATAS": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/datas/"
+    
   }
 ]
