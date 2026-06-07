@@ -1,12 +1,12 @@
 [
   {
-    "data_1_zip_url_1": "https://archive.org/download/remi_bully_data/data_1.zip",
-    "data_1_zip_url_2": "https://archive.org/download/remi_bully_data/data_1.zip",
-    "data_1_zip_url_3": "https://archive.org/download/remi_bully_data/data_1.zip",
+    "data_1_zip_url_1": "https://archive.org/download/remi_bully_data/data_1old.zip",
+    "data_1_zip_url_2": "https://archive.org/download/remi_bully_data/data_1old.zip",
+    "data_1_zip_url_3": "https://archive.org/download/remi_bully_data/data_1old.zip",
     
-    "data_1_idx_url_1": "https://archive.org/download/remi_bully_data/data_1.zip.idx",
-    "data_1_idx_url_2": "https://archive.org/download/remi_bully_data/data_1.zip.idx",
-    "data_1_idx_url_3": "https://archive.org/download/remi_bully_data/data_1.zip.idx",
+    "data_1_idx_url_1": "https://archive.org/download/remi_bully_data/data_1old.zip.idx",
+    "data_1_idx_url_2": "https://archive.org/download/remi_bully_data/data_1old.zip.idx",
+    "data_1_idx_url_3": "https://archive.org/download/remi_bully_data/data_1old.zip.idx",
 
     "data_2_zip_url_1": "https://archive.org/download/remi_bully_data/data_2.zip",
     "data_2_zip_url_2": "https://archive.org/download/remi_bully_data/data_2.zip",
