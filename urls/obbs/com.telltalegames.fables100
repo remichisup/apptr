@@ -1,0 +1,18 @@
+[
+  {
+    "main_mali_1": "https://github.com/seontr/twu_data/releases/download/mali/main.remi",
+    "main_mali_2": "https://github.com/seontr/twu_data/releases/download/mali/main.remi",
+    "main_mali_3": "https://github.com/seontr/twu_data/releases/download/mali/main.remi",
+    "patch_mali_1": "https://github.com/seontr/twu_data/releases/download/mali/patch.remi",
+    "patch_mali_2": "https://github.com/seontr/twu_data/releases/download/mali/patch.remi",
+    "patch_mali_3": "https://github.com/seontr/twu_data/releases/download/mali/patch.remi",
+
+    "main_adreno_1": "https://github.com/seontr/twu_data/releases/download/adreno/main.remi",
+    "main_adreno_2": "https://github.com/seontr/twu_data/releases/download/adreno/main.remi",
+    "main_adreno_3": "https://github.com/seontr/twu_data/releases/download/adreno/main.remi",
+    "patch_adreno_1": "https://github.com/seontr/twu_data/releases/download/adreno/patch.remi",
+    "patch_adreno_2": "https://github.com/seontr/twu_data/releases/download/adreno/patch.remi",
+    "patch_adreno_3": "https://github.com/seontr/twu_data/releases/download/adreno/patch.remi"
+   
+   }
+]

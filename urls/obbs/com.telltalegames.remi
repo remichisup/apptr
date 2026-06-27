@@ -1,10 +1,17 @@
 [
   {
-    "main_url_1": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
-    "main_url_2": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
-    "main_url_3": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
-    "patch_url_1": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
-    "patch_url_2": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
-    "patch_url_3": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip"
+    "main_mali_1": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "main_mali_2": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "main_mali_3": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "patch_mali_1": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "patch_mali_2": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "patch_mali_3": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+
+    "main_adreno_1": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "main_adreno_2": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "main_adreno_3": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "patch_adreno_1": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "patch_adreno_2": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip",
+    "patch_adreno_3": "https://github.com/seontr/tellt_data/releases/download/remi/Test.zip"
    }
 ]
