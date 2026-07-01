@@ -12,7 +12,20 @@
     "main_adreno_3": "https://github.com/seontr/twu_data/releases/download/adreno/main.remi",
     "patch_adreno_1": "https://github.com/seontr/twu_data/releases/download/adreno/patch.remi",
     "patch_adreno_2": "https://github.com/seontr/twu_data/releases/download/adreno/patch.remi",
-    "patch_adreno_3": "https://github.com/seontr/twu_data/releases/download/adreno/patch.remi"
+    "patch_adreno_3": "https://github.com/seontr/twu_data/releases/download/adreno/patch.remi",
    
+    "main_powervr_1": "https://github.com/seontr/twu_data/releases/download/powervr/main.remi",
+    "main_powervr_2": "https://github.com/seontr/twu_data/releases/download/powervr/main.remi",
+    "main_powervr_3": "https://github.com/seontr/twu_data/releases/download/powervr/main.remi",
+    "patch_powervr_1": "https://github.com/seontr/twu_data/releases/download/powervr/patch.remi",
+    "patch_powervr_2": "https://github.com/seontr/twu_data/releases/download/powervr/patch.remi",
+    "patch_powervr_3": "https://github.com/seontr/twu_data/releases/download/powervr/patch.remi",
+
+    "main_tegra_1": "https://github.com/seontr/twu_data/releases/download/tegra/main.remi",
+    "main_tegra_2": "https://github.com/seontr/twu_data/releases/download/tegra/main.remi",
+    "main_tegra_3": "https://github.com/seontr/twu_data/releases/download/tegra/main.remi",
+    "patch_tegra_1": "https://github.com/seontr/twu_data/releases/download/tegra/patch.remi",
+    "patch_tegra_2": "https://github.com/seontr/twu_data/releases/download/tegra/patch.remi",
+    "patch_tegra_3": "https://github.com/seontr/twu_data/releases/download/tegra/patch.remi"
    }
 ]
