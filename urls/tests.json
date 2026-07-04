@@ -1,37 +1,3 @@
 [
-  {
-    "id": "com.telltalegames.fables100",
-    "app_name": "The Wolf Among Us",
-    "developer_name": "Telltale",
-    "game_size": "2,5 GB",
-    "version": "1.23",
-    "file_size": 17829173,
-    "apk_size": 17829113,
-    "playstore_link": "https://play.google.com/store/apps/details?id=com.telltalegames.fables100",
-    "description": "Oyunu başka bir yerden yüklediyseniz silip buradan indirin. Yama ve oyun birlikte iner. Sadece indirip kurun ve oynamaya başlayın.\n\nDikkat: Oyun eski olduğu için bazı cihazlarda tam çalışmayabilir, alyazılarda kayma olabilir. Bunun yama ile alakası yoktur, sorun oyunun kendisindedir.\n\nHikaye: The Wolf Among Us, Bill Willingham’ın ödüllü Fables çizgi roman serisinden uyarlanmış ve mobil platforma taşınmış beş bölümlük sinematik bir macera oyunudur. Hikaye, masal kahramanlarının bizim dünyamızda, New York'un yeraltı sokaklarında gizlice yaşamak zorunda kaldığı karanlık ve tekinsiz bir dünyada geçiyor. Siz ise geçmişi vahşetle dolu olan ve artık Fabletown'ın şerifliğini yapan Bigby Wolf (Büyük Kötü Kurt) karakterini canlandırıyorsunuz.\n\nMasalların büyülü dünyasının geride kaldığı, hayatta kalmak için herkesin yozlaştığı bu acımasız düzende, Bigby'nin en büyük sorumluluğu, gizemli bir cinayeti aydınlatmak ve Fabletown sakinlerini korumak olacak. Yaptığınız her seçim, verdiğiniz her karar oyunun gidişatını doğrudan etkileyecek ve size tamamen kişisel bir neo-noir polisiye deneyimi sunacak.\n\nOyun boyunca tanıdık masal kahramanlarının beklenmedik ve karanlık yüzleriyle tanışacak, ahlaki açıdan zorlayıcı kararlar verecek ve her köşesinde tehlike barındıran bu gizemli dünyada adaleti sağlamaya çalışacaksınız. Hikayeye yön veren dinamik diyalog sistemi ve sürükleyici atmosferiyle The Wolf Among Us: Season 1, mobilde etkileyici bir deneyim sunuyor.\n\nBölümler eksiksizdir ve tamamen Türkçe'dir. Android 8.0 ve üzeri cihazlarla uyumludur.",
-    "tag_1": "Telltale",
-    "tag_2": "Rol Yapma",
-    "tag_3": "Hikaye Oyunu",
-    "youtube_id": "no",
-    "adreno_link1": "",
-    "adreno_link2": "",
-    "adreno_link3": "",
-    "mali_link1": "https://github.com/seontr/twu_data/releases/download/mali/project.remi",
-    "mali_link2": "https://github.com/seontr/twu_data/releases/download/mali/project.remi",
-    "mali_link3": "https://github.com/seontr/twu_data/releases/download/mali/project.remi",
-    "tegra_link1": "",
-    "tegra_link2": "",
-    "tegra_link3": "",
-    "powervr_link1": "",
-    "powervr_link2": "",
-    "powervr_link3": "",
-    "soon": true,
-    "isHorizontal": true,
-    "image1": "https://play-lh.googleusercontent.com/oslh7GUxdHs67-RgBUvjflfScKACATwliScc8WuSsz0W1j__DJMSWva4Rsbahzk0cxx79-ISul1Pg4FKJjhLlQ=w1052-h592-rw",
-    "image2": "https://play-lh.googleusercontent.com/tvbx6KjWD5ewPkFrvJxc7u0MEx_yNNTVfUexOPlSVCe0qIfGsr0TE6Ni5F3QltKVZ7yfSR2XxyQkFX4MRiM6Vg=w1052-h592-rw",
-    "image3": "https://play-lh.googleusercontent.com/-JwCw2MCSOeUN8YGW8Ye6BTPoaDYBTM5Ws5msWBospPiG0OM1U8Zk3gKce6w4OUhgSnVrVkMqGXg2dXpglmzFng=w1052-h592-rw",
-    "image4": "https://play-lh.googleusercontent.com/azxsFQd4eBW4xuXH8qTT8hNN23G-Yu6re_jffl8RCo_UXlctoloshVD9J3mTyT3adyKn4A4aVBselTrs7M9O=w1052-h592-rw",
-    "image5": "https://play-lh.googleusercontent.com/DuM6YgANIhq-TPV_r4N5q8csbpNNr8N_HFkj6e71P4487-LedLDPV4XtLKmrjiW2UmOlBF6hvj-7p3LXQokNlg=w1052-h592-rw",
-    "game_icon": "https://play-lh.googleusercontent.com/sNRGdxHMe7HU0pZaCT7MZYwRsV4dHNjiih_2qBB8B02W_fmLHzrEYxrdMnNB62MYpC8pEh0etDfJ74T47AtE=s96-rw"
-  }
+
 ]
