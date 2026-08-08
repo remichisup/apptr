@@ -1,15 +1,17 @@
-{
-  "SETTINGS_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/settings/app_settings.json",
-  "UPDATE_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/settings/update_app.json",
+[
+  {
+    "SETTINGS_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/settings/app_settings.json",
+    "UPDATE_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/settings/update_app.json",
+    "SOCIAL_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/settings/social.json",
+    "BETA_USERS_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/settings/beta_users.json",
 
-  "STEAM_GAMES": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/steams.json",
-  "SOCIAL_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/settings/social.json",
-  "BETA_USERS_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/settings/beta_users.json",
+    "ALL_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/apks/files_",
+    "NEXT_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/nexts.json",
+    "TEST_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/tests.json",
+    "STEAM_GAMES": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/steams.json",
 
-  "ALL_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/apks/files_",
-  "NEXT_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/nexts.json",
-  "TEST_GAMES_URL": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/tests.json",
-
-  "GAME_OBBS": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/obbs/",
-  "GAME_DATAS": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/datas/"
-}
+    "GAME_OBBS": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/obbs/",
+    "GAME_DATAS": "https://raw.githubusercontent.com/remichisup/apptr/refs/heads/main/urls/datas/"
+    
+  }
+]
