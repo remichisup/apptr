@@ -2,8 +2,8 @@
   {
     "file_number": 2,
     "board_game": "com.telltalegames.walkingdead300",
-    "will_edit": true,
-    "under_edit": true,
+    "will_edit": false,
+    "under_edit": false,
     "version": "1.3"
    }
 ]
